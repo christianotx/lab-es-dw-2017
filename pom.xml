@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>br.ufg.inf.es.dw</groupId>
+  <groupId>br.es-dsw</groupId>
   <artifactId>lab-es-dw-2017</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!-- Para aplicação web "standard" (JEE).-->
